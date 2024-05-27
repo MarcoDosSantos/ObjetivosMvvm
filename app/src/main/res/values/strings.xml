@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ObjetivosMvvm</string>
+    <string name="hubo_un_error_al_buscar_los_datos_npor_favor_intent_de_nuevo_m_s_tarde">Hubo un error al cargar los datos.\nPor favor, intentá de nuevo más tarde.</string>
+</resources>
